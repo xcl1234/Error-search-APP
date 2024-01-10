@@ -1,0 +1,4 @@
+include ':app', ':smartcropperlib'
+
+
+include ':opencv4.7'
